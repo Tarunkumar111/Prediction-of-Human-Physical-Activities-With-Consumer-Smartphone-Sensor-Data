@@ -23,12 +23,7 @@ The approach might be little different.**
 
 **That said, I will use the almost raw data: only the gravity effect has been filtered out of the accelerometer  as a preprocessing step for another 3D feature as an input to help learning.** 
 
-![feature_distribution1.png](feature_distribution1.png) 
-![feature_distribution2.png](feature_distribution2.png)
-![feature_distribution4.png](feature_distribution4.png)
-![Research_paper_implementation.png](Research_paper_implementation.png) ![My_own_implementation](My_own_implementation.png)
-![accuracy](accuracy.png)
-![loss](loss.png)
+
 
 ## Attribute Information:
 
