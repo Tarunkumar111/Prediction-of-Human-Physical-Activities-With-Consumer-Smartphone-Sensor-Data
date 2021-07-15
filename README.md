@@ -36,4 +36,5 @@ The approach might be little different.**
 
 ## References
 
-The [dataset](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) can be found on the UCI Machine Learning Repository. 
+The [UCI-HAR dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones) can be found on the UCI Machine Learning Repository. 
+The [WISDM dataset](https://www.cis.fordham.edu/wisdm/dataset.php) can be found here. 
